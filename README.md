@@ -3,6 +3,4 @@
 - 🌱 I'm currently learning Vue.js, Typescript, Node.js.
 - 💞️ I'm looking to collaborate on UI/UX design, front-end development and database-free services.
 - 📫 Contact me via email [abc@imst.xyz](mailto:abc@imst.xyz).
-
-[![ko-fi](githubbutton_ko-fi.svg)](https://ko-fi.com/demomacro)
-[![afdian](githubbutton_afdian.svg)](https://afdian.net/@DemoMacro)
+- ☕ Support me on [ko-fi](https://ko-fi.com/demomacro), [爱发电](https://afdian.net/@DemoMacro), [面包多](https://mbd.pub/o/demomacro)
