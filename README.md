@@ -1,6 +1,5 @@
 - 👋 Hi, I'm @DemoMacro
 - 👀 I'm interested in all things new, interesting and fun.
 - 🌱 I'm currently learning Vue.js, Typescript, Node.js.
-- 💞️ I'm looking to collaborate on UI/UX design, front-end development and database-free services.
+- 💞️ I'm looking to collaborate on UI/UX design, front-end development and serverless services.
 - 📫 Contact me via email [abc@imst.xyz](mailto:abc@imst.xyz).
-- ☕ Support me on [ko-fi](https://ko-fi.com/demomacro), [爱发电](https://afdian.net/@DemoMacro), [面包多](https://mbd.pub/o/demomacro)
