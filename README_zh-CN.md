@@ -50,13 +50,13 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=DemoMacro&show_icons=true&theme=transparent&rank_icon=github&locale=cn" alt="GitHub 统计" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=DemoMacro&show_icons=true&rank_icon=github&locale=cn" alt="GitHub 统计" />
   <br/><br/>
   
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemoMacro&layout=compact&theme=transparent&hide=HTML&locale=cn" alt="使用语言" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemoMacro&layout=compact&hide=HTML&locale=cn" alt="使用语言" />
   <br/><br/>
   
-  <img width="400" src="https://github-profile-trophy.vercel.app/?username=DemoMacro&theme=flat&column=4&margin-w=15&margin-h=15&locale=cn" alt="GitHub 奖杯" />
+  <img width="400" src="https://github-profile-trophy.vercel.app/?username=DemoMacro&column=4&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub 奖杯" />
 </div>
 
 ## 🤝 加入组织

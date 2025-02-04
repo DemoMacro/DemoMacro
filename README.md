@@ -51,13 +51,13 @@ I'm a passionate developer focused on creating elegant solutions with modern tec
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=DemoMacro&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub Stats" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=DemoMacro&show_icons=true&rank_icon=github" alt="GitHub Stats" />
   <br/><br/>
   
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemoMacro&layout=compact&theme=transparent&hide=HTML" alt="Top Languages" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemoMacro&layout=compact&hide=HTML" alt="Top Languages" />
   <br/><br/>
   
-  <img width="400" src="https://github-profile-trophy.vercel.app/?username=DemoMacro&theme=flat&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img width="400" src="https://github-profile-trophy.vercel.app/?username=DemoMacro&column=4&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
 </div>
 
 ## 🤝 Connect With Me
