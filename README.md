@@ -22,42 +22,15 @@
 
 I'm a passionate developer focused on creating elegant solutions with modern technologies. Always believing that good things are about to happen, I strive to contribute meaningful code to the open-source community.
 
-- 🌱 Tech stack: Vue.js, TypeScript, Node.js
-- 💡 Interested in UI/UX design, front-end development, and serverless architecture
+- 🌱 Tech stack: TypeScript, Rust, Vue.js, Node.js
+- 💡 Specialized in document processing, editor extensions, and developer tooling
 - 🏆 Arctic Code Vault Contributor & Pull Shark Achievement holder
-
-## 🛠️ Featured Projects
-
-### Document Processing
-
-- [docenjs/docen](https://github.com/docenjs/docen) - Programmatic document formatting toolkit
-- [librefont/librefont](https://github.com/librefont/librefont) - Font toolchain creation system
-
-### Development Tools
-- [funish/toolchains](https://github.com/funish/toolchains) - Unified, standardized development toolchains
-- [nlptools](https://github.com/DemoMacro/nlptools) - Natural language processing utilities
-
-### Frontend
-- [getuikit](https://github.com/DemoMacro/getuikit) - UIKit-style frontend framework
-- [tianditu](https://github.com/DemoMacro/tianditu) - Utility libraries for TianDiTu maps
 
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,vue,nodejs,vite,nuxt,tailwind,prisma,supabase" alt="Tech Stack" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,vercel,vscode" alt="Tools" />
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=DemoMacro&show_icons=true&rank_icon=github" alt="GitHub Stats" />
-  <br/><br/>
-  
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemoMacro&layout=compact&hide=HTML" alt="Top Languages" />
-  <br/><br/>
-  
-  <img width="400" src="https://github-profile-trophy.vercel.app/?username=DemoMacro&column=4&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+  <img src="https://skillicons.dev/icons?i=ts,rust,vue,nodejs,vite,nuxt" alt="Languages & Frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,vercel,vscode" alt="DevOps & Tools" />
 </div>
 
 ## 🤝 Connect With Me

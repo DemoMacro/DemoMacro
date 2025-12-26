@@ -22,41 +22,15 @@
 
 我是一名热衷于用现代技术创造优雅解决方案的开发者。始终相信美好的事物即将发生，致力于为开源社区贡献有意义的代码。
 
-- 🌱 技术栈：Vue.js、TypeScript、Node.js
-- 💡 专注于：UI/UX 设计、前端开发、Serverless 服务
+- 🌱 技术栈：TypeScript、Rust、Vue.js、Node.js
+- 💡 专注于：文档处理、编辑器扩展、开发工具
 - 🏆 成就：Arctic Code Vault 贡献者 & Pull Shark 成就获得者
-
-## 🛠️ 精选项目
-
-### 文档处理
-- [docenjs/docen](https://github.com/docenjs/docen) - 程序化文档格式化工具集
-- [librefont/librefont](https://github.com/librefont/librefont) - 字体工具链创建系统
-
-### 开发工具
-- [funish/toolchains](https://github.com/funish/toolchains) - 统一标准化的开发工具链
-- [nlptools](https://github.com/DemoMacro/nlptools) - 自然语言处理工具
-
-### 前端项目
-- [getuikit](https://github.com/DemoMacro/getuikit) - UIKit 风格的前端框架
-- [tianditu](https://github.com/DemoMacro/tianditu) - 天地图实用工具库
 
 ## 💻 技术栈
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,vue,nodejs,vite,nuxt,tailwind,prisma,supabase" alt="技术栈" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,vercel,vscode" alt="工具" />
-</div>
-
-## 📊 GitHub 统计
-
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=DemoMacro&show_icons=true&rank_icon=github&locale=cn" alt="GitHub 统计" />
-  <br/><br/>
-  
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemoMacro&layout=compact&hide=HTML&locale=cn" alt="使用语言" />
-  <br/><br/>
-  
-  <img width="400" src="https://github-profile-trophy.vercel.app/?username=DemoMacro&column=4&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub 奖杯" />
+  <img src="https://skillicons.dev/icons?i=ts,rust,vue,nodejs,vite,nuxt" alt="语言与框架" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,vercel,vscode" alt="开发与运维工具" />
 </div>
 
 ## 🤝 加入组织
